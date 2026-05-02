@@ -119,6 +119,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 4. Push to the branch: `git push origin feature/my-feature`
 5. Open a Pull Request
 
+# Check the project on https://simple-task-manager-front-end.vercel.app/
 
 
 <div align="center">
